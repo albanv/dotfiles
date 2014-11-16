@@ -81,3 +81,6 @@
 
 [diff]
   algorithm = patience
+
+[include]
+  path = ~/.gitconfig.local
