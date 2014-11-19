@@ -17,4 +17,9 @@ mkdir -p ~/.vim/syntax
 mkdir -p ~/.vim/undo
 
 mkdir -p "~/Library/Application Support/Sublime Text 3/Packages/User/"
-cp --no-clobber "other/sublime/*" "~/Library/Application Support/Sublime Text 3/Packages/User/"
+cp --no-clobber "other/sublime/Default (OSX).sublime-keymap" "~/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap"
+cp --no-clobber "other/sublime/Package Control.sublime-settings" "~/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings"
+cp --no-clobber "other/sublime/Preferences.sublime-settings" "~/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+cp --no-clobber "other/sublime/Ruby on Rails.sublime-settings" "~/Library/Application Support/Sublime Text 3/Packages/User/Ruby on Rails.sublime-settings"
+cp --no-clobber "other/sublime/Shell-Unix-Generic.sublime-settings" "~/Library/Application Support/Sublime Text 3/Packages/User/Shell-Unix-Generic.sublime-settings"
+cp --no-clobber "other/sublime/Textile.sublime-settings" "~/Library/Application Support/Sublime Text 3/Packages/User/Textile.sublime-settings"
