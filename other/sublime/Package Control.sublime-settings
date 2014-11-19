@@ -1,0 +1,26 @@
+"installed_packages":
+  [
+    "All Autocomplete",
+    "Better TypeScript",
+    "BracketHighlighter",
+    "ChangeQuotes",
+    "EditorConfig",
+    "GitGutter",
+    "GitHubinator",
+    "HTML5",
+    "LESS",
+    "MarkdownEditing",
+    "Sass",
+    "SideBarEnhancements",
+    "SublimeCodeIntel",
+    "SublimeLinter",
+    "SublimeLinter-contrib-scss-lint",
+    "SublimeLinter-csslint",
+    "SublimeLinter-haml",
+    "SublimeLinter-jshint",
+    "SublimeLinter-json",
+    "SublimeLinter-rubocop",
+    "SublimeLinter-ruby",
+    "ToggleQuotes"
+  ]
+}

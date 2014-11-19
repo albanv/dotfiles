@@ -1,0 +1,19 @@
+{
+  "extensions":
+  [
+    "rb",
+    "ru",
+    "nm",
+    "god",
+    "rabl",
+    "Gemfile",
+    "Rakefile",
+    "Vagrantfile",
+    "Guardfile"
+  ],
+  "rulers":
+  [
+    80
+  ],
+  "tab_size": 2
+}
