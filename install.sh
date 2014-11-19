@@ -12,4 +12,5 @@ mkdir -p ~/.vim/swaps
 mkdir -p ~/.vim/syntax
 mkdir -p ~/.vim/undo
 
+mkdir -p "~/Library/Application Support/Sublime Text 3/Packages/User/"
 cp "other/sublime/*" "~/Library/Application Support/Sublime Text 3/Packages/User/"
