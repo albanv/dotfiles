@@ -17,6 +17,7 @@
     "SublimeCodeIntel",
     "SublimeLinter",
     "SublimeLinter-contrib-scss-lint",
+    "SublimeLinter-contrib-tslint",
     "SublimeLinter-csslint",
     "SublimeLinter-haml",
     "SublimeLinter-jshint",
