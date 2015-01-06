@@ -23,3 +23,4 @@ cp --no-clobber "other/sublime/Preferences.sublime-settings" "$HOME/Library/Appl
 cp --no-clobber "other/sublime/Ruby on Rails.sublime-settings" "$HOME/Library/Application Support/Sublime Text 3/Packages/User/Ruby on Rails.sublime-settings"
 cp --no-clobber "other/sublime/Shell-Unix-Generic.sublime-settings" "$HOME/Library/Application Support/Sublime Text 3/Packages/User/Shell-Unix-Generic.sublime-settings"
 cp --no-clobber "other/sublime/Textile.sublime-settings" "$HOME/Library/Application Support/Sublime Text 3/Packages/User/Textile.sublime-settings"
+cp --no-clobber "other/sublime/SublimeLinter.sublime-settings" "$HOME/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings"
