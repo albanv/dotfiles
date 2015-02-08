@@ -129,7 +129,7 @@ export MANPAGER="less -X"
 export LESS_TERMCAP_md="${yellow}";
 
 # Friendly path
-export PATH=".:./bin:./node_modules/.bin/:$PATH"
+export PATH=".:./bin:./node_modules/.bin:$PATH"
 
 # Larger bash history (allow 32³ entries; default is 500)
 export HISTSIZE=32768
