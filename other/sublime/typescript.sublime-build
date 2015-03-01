@@ -1,0 +1,4 @@
+{
+  "shell_cmd": "tslint -f $file && tsc --noImplicitAny --target ES5 --outDir /tmp $file",
+  "selector": "source.typescript"
+}
