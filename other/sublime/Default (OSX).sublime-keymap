@@ -4,5 +4,11 @@
   { "keys": ["ctrl+shift+v"], "command": "paste" },
   { "keys": ["super+shift+alt+t"], "command": "open_terminal" },
   { "keys": ["super+shift+t"], "command": "open_terminal_project_folder" },
-  { "keys": ["ctrl+super+r"], "command": "reveal_in_side_bar" }
+  { "keys": ["ctrl+super+r"], "command": "reveal_in_side_bar" },
+  { "keys": ["alt+space"], "command": "insert_snippet", "args": {"contents": " " } },
+  { "keys": ["ctrl+space"], "command": "insert_snippet", "args": {"contents": " " } },
+  { "keys": ["super+space"], "command": "insert_snippet", "args": {"contents": " " } },
+  { "keys": ["alt+shift+space"], "command": "insert_snippet", "args": {"contents": " " } },
+  { "keys": ["ctrl+shift+space"], "command": "insert_snippet", "args": {"contents": " " } },
+  { "keys": ["super+shift+space"], "command": "insert_snippet", "args": {"contents": " " } }
 ]
