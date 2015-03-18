@@ -1,0 +1,9 @@
+# Interactive rebase
+bind main B !git rebase -i %(commit)
+
+# Move in diff with arrow keys
+bind diff <Up> move-up
+bind diff <Down> move-down
+
+# Ammend commit
+bind status + !git commit --amend
