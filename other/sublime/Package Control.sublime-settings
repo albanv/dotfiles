@@ -1,29 +1,19 @@
 {
 "installed_packages":
   [
-    "All Autocomplete",
     "Better TypeScript",
     "BracketHighlighter",
-    "ChangeQuotes",
+    "Colorsublime",
+    "Colorsublime - Themes",
     "EditorConfig",
     "GitGutter",
     "GitHubinator",
     "HTML5",
     "Jade",
     "LESS",
-    "MarkdownEditing",
     "Sass",
     "SideBarEnhancements",
-    "SublimeCodeIntel",
-    "SublimeLinter",
-    "SublimeLinter-contrib-scss-lint",
-    "SublimeLinter-contrib-tslint",
-    "SublimeLinter-csslint",
-    "SublimeLinter-haml",
-    "SublimeLinter-jshint",
-    "SublimeLinter-json",
-    "SublimeLinter-rubocop",
-    "SublimeLinter-ruby",
+    "Theme - Afterglow",
     "ToggleQuotes"
   ]
 }
