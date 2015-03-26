@@ -7,3 +7,8 @@ bind diff <Down> move-down
 
 # Ammend commit
 bind status + !git commit --amend
+
+# remove file
+bind status D !rm %(file)
+
+bind stage C !git commit
