@@ -25,3 +25,4 @@ cp "other/sublime/Shell-Unix-Generic.sublime-settings" "$HOME/Library/Applicatio
 cp "other/sublime/Textile.sublime-settings" "$HOME/Library/Application Support/Sublime Text 3/Packages/User/Textile.sublime-settings"
 cp "other/sublime/SublimeLinter.sublime-settings" "$HOME/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings"
 cp "other/sublime/typescript.sublime-build" "$HOME/Library/Application Support/Sublime Text 3/Packages/User/typescript.sublime-build"
+cp "other/sublime/Afterglow.tmTheme" "$HOME/Library/Application Support/Sublime Text 3/Packages/Colorsublime - Themes/Afterglow.tmTheme"
