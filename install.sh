@@ -17,6 +17,7 @@ mkdir -p ~/.vim/syntax
 mkdir -p ~/.vim/undo
 
 mkdir -p "$HOME/Library/Application Support/Sublime Text 3/Packages/User/"
+mkdir -p "$HOME/Library/Application Support/Sublime Text 3/Packages/Colorsublime - Themes"
 cp "other/sublime/Default (OSX).sublime-keymap" "$HOME/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap"
 cp "other/sublime/Package Control.sublime-settings" "$HOME/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings"
 cp "other/sublime/Preferences.sublime-settings" "$HOME/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
