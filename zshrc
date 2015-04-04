@@ -97,7 +97,7 @@ export LANG="en_US.UTF-8"
 export LC_ALL="en_US.UTF-8"
 
 # Always enable colored `grep` output
-export GREP_OPTIONS="--color=auto"
+alias grep="grep --color=auto --text"
 
 # Detect which `ls` flavor is in use
 if ls --color > /dev/null 2>&1; then # GNU `ls`
